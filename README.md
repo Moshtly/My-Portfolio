@@ -28,7 +28,7 @@ Welcome to my portfolio website! This is a modern, terminal-styled personal port
 
 ## 🔗 Live Website
 
-View this portfolio at: `https://lakhikantatewary.github.io/My-Portfolio/`
+View this portfolio at: `https://moshtly.github.io/My-Portfolio/`
 
 ## 📄 Files
 
