@@ -21,13 +21,14 @@ Welcome to my portfolio website! This is a modern, terminal-styled personal port
 ## 📱 Contact Information
 
 - **Mobile**: +919547538471
-- **Email**: yolakhikanta@gmail.com
+- **Email**: contact@lakhikanta.indevs.in
+- **Personal Email**: lakhikantatewary@gmail.com
 - **LinkedIn**: [lakhikanta-tewary](https://www.linkedin.com/in/lakhikanta-tewary)
 - **CV**: [Download from Google Drive](https://drive.google.com/file/d/1ZF7BNA9exbcZEqG1C16ny6qNs5xnxxY4/view?usp=drive_link)
 
 ## 🔗 Live Website
 
-View this portfolio at: `https://moshtly.github.io/My-Portfolio/`
+View this portfolio at: `https://lakhikantatewary.github.io/My-Portfolio/`
 
 ## 📄 Files
 
